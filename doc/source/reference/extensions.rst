@@ -68,6 +68,16 @@ objects.
       api.extensions.ExtensionArray.sort
       api.extensions.ExtensionArray.take
       api.extensions.ExtensionArray.unique
+      api.extensions.ExtensionArray.to_numpy
+      api.extensions.ExtensionArray.size
+      api.extensions.ExtensionArray.T
+      api.extensions.ExtensionArray.transpose
+      api.extensions.ExtensionArray.argmin
+      api.extensions.ExtensionArray.argmax
+      api.extensions.ExtensionArray.value_counts
+      api.extensions.ExtensionArray.delete
+      api.extensions.ExtensionArray.round
+      api.extensions.ExtensionArray.map
       api.extensions.ExtensionArray.dtype
       api.extensions.ExtensionArray.nbytes
       api.extensions.ExtensionArray.ndim
